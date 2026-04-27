@@ -1,1 +1,1 @@
-This script compares the *.tar.xz source archives I have saved in /sources/blfs folder with the versions the nie BLFS book has. Then it shows a list with archives that have to be updated.
+Compares tarballs in a local source directory against the versions listed in the BLFS HTML book and reports packages that have a newer upstream version.

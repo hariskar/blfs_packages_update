@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-LFS/BLFS version checker  (v3.0)
+BLFS version checker  (v3.0)
 
 Compares tarballs in a local source directory against the versions listed in
 the BLFS HTML book and reports packages that have a newer upstream version.
